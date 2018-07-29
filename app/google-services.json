@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "719050750279",
+    "firebase_url": "https://yohochat-6c1cf.firebaseio.com",
+    "project_id": "yohochat-6c1cf",
+    "storage_bucket": "yohochat-6c1cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719050750279:android:c4d50fac291fc5b7",
+        "android_client_info": {
+          "package_name": "com.verbosetech.yoohoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719050750279-q65a32t5j4b0ajeusn57estt9s88jqpo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.verbosetech.yoohoo",
+            "certificate_hash": "74a5208906aa97fa57790a97b664ae9e124eb116"
+          }
+        },
+        {
+          "client_id": "719050750279-cggc4tebdtes2ljgitkn9h2v6r6csahd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqOx6ldNliLjCfbHifXnJGrNJC3jmF8fQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719050750279-cggc4tebdtes2ljgitkn9h2v6r6csahd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
